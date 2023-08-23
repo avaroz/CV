@@ -738,4 +738,7 @@ blockquote {
   .flex_inside_colum_doble>article {
     width: 100%;
   }
+  .flex_doble>aside {
+    margin-right: 0rem;
+  }
 }
