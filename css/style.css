@@ -692,6 +692,7 @@ blockquote {
 @media only screen and (max-width: 767px) {
   main {
     width: 95%;
+    margin: 1rem auto;
   }
 
   .flex_doble>section {
