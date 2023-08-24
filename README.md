@@ -1,4 +1,3 @@
-# CV
 Hi, this is My Employment CV
 
 # Info 🔎
